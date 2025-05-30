@@ -22,7 +22,7 @@ EmpName VARCHAR(100),
 DoJ DATE,
 Gender VARCHAR(10),
 Bsalary DECIMAL(10,2)
-);                                  
+);                          
 ___
 
 🖼️ Screenshots                                                      
@@ -31,7 +31,7 @@ ___
 
 ![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/home%20page.png)
 
-➕ Add Patient Page                                                           
+➕ Add Employee Page                                                           
 
 ![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/addEmp.png)
 
