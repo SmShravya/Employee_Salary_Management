@@ -29,24 +29,30 @@ ___
 
 🏠 Home Page                                         
 
-![Output]()
+![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/home%20page.png)
 
 ➕ Add Patient Page                                                           
 
-![Output]()
+![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/addEmp.png)
 
 🪟 View Patients                       
-![Output]()                       
+![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/report_page.png) 
+
 
 ❌ Delete Patient                                  
-![Output]()
+![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/deleteEmp.png)
 
 
 🆕 Update Patient                           
-![Output]()
+![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/update.png)
 
 📋 Reports                                      
-![Output]()
+![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/filter%20by%20letter.png)
+![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/report.png)
+![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/filter%20by%20experience.png)
+![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/report1.png)
+![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/filter%20by%20salary.png)
+![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/report2.png)
 
 
 
