@@ -31,19 +31,19 @@ ___
 
 ![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/home%20page.png)
 
-➕ Add Employee Page                                                           
+➕ Add New Employee                                                           
 
 ![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/addEmp.png)
 
-🪟 View Patients                       
+🪟 View Employees                    
 ![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/report_page.png) 
 
 
-❌ Delete Patient                                  
+❌ Delete Employee                                 
 ![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/deleteEmp.png)
 
 
-🆕 Update Patient                           
+🆕 Update Employee                           
 ![Output](https://github.com/SmShravya/Employee_Salary_Management/blob/main/Screenshots/update.png)
 
 📋 Reports                                      
